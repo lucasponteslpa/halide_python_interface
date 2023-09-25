@@ -1,0 +1,22 @@
+# ninja log v5
+2	1686	1695645256514019925	CMakeFiles/pipeline.generator.dir/home/lpa1/Halide-install/share/tools/GenGen.cpp.o	b73d9d1214b0545e
+1	2245	1695645257078065286	CMakeFiles/pipeline.generator.dir/pipeline_generator.cpp.o	af710435fb84bb29
+2245	2333	1695645257162072047	pipeline.generator	40fc4770033f4b3a
+2334	2389	1695645257218076554	pipeline_c.h	131527cd94020f5b
+2334	2389	1695645257218076554	pipeline_c.halide_generated.cpp	131527cd94020f5b
+2334	2389	1695645257218076554	pipeline_c.py.cpp	131527cd94020f5b
+2334	2389	1695645257218076554	/home/lpa1/Documents/code/python_cmake_tutorial/c_backend/build/pipeline_c.h	131527cd94020f5b
+2334	2389	1695645257218076554	/home/lpa1/Documents/code/python_cmake_tutorial/c_backend/build/pipeline_c.halide_generated.cpp	131527cd94020f5b
+2334	2389	1695645257218076554	/home/lpa1/Documents/code/python_cmake_tutorial/c_backend/build/pipeline_c.py.cpp	131527cd94020f5b
+2334	2555	1695645257386090076	pipeline_native.h	a2ff39864a15d0d7
+2334	2555	1695645257386090076	pipeline_native.o	a2ff39864a15d0d7
+2334	2555	1695645257386090076	/home/lpa1/Documents/code/python_cmake_tutorial/c_backend/build/pipeline_native.h	a2ff39864a15d0d7
+2334	2555	1695645257386090076	/home/lpa1/Documents/code/python_cmake_tutorial/c_backend/build/pipeline_native.o	a2ff39864a15d0d7
+2555	2570	1695645257402091364	libpipeline_native.a	2436bfd465a93621
+2389	3113	1695645257942134825	CMakeFiles/pipeline_c.dir/pipeline_c.halide_generated.cpp.o	ae716ce5c73d32fa
+3113	3128	1695645257958136113	libpipeline_c.a	d3c1217e257edee7
+2334	3639	1695645258462176707	pipeline_native.runtime.o	aef542d4b05260c
+2334	3639	1695645258462176707	/home/lpa1/Documents/code/python_cmake_tutorial/c_backend/build/pipeline_native.runtime.o	aef542d4b05260c
+3639	3658	1695645258490178963	libpipeline_native.runtime.a	f4576daae7efa21c
+3639	4285	1695645259118229557	CMakeFiles/run_c_backend_and_native.dir/run.cpp.o	bf1fb0f1ca93874e
+4285	4345	1695645259178234394	librun_c_backend_and_native.so	45bed0005b67ac90
